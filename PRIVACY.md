@@ -25,7 +25,7 @@ No profiling or advertising use is made of this data.
 The license metadata is cached locally in the browser for the duration of the license TTL (typically a few hours). On the server (hosted on Heroku), request logs and license audit entries follow Heroku’s standard retention policies (up to 30 days in application logs). After those periods the data is automatically purged.
 
 ## 5. Contact
-Questions about this policy can be sent to **support@yourdomain.com**.
+Questions about this policy can be sent to **mohyladenys1990@gmail.com**.
 
 ## 6. Sharing and Selling
 We do not sell, rent, or share the hashed install IDs or license metadata with third parties. Data is disclosed only if required by law or to fulfill legal obligations (e.g., responding to lawful requests).
