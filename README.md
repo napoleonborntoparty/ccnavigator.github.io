@@ -1,2 +1,1 @@
 ccnavigator.github.io
-/
